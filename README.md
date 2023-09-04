@@ -12,3 +12,5 @@ Solving some problems with Python
 0005 - Soccer Field: This is a python script to be used with Blender 3d. It makes a soccer field of Width x Length with all the white lines. I made this years ago when working selling synthetic sports turf for our clients to see the dimensions of their project. To use this, you must first install Blender 3D, then put this on the "Scripting" tab then run it with "Alt + P".
 
 <img src="https://raw.githubusercontent.com/ThiagoFigueiroRibeiro/python/main/imgs/0005_SoccerField.png" width="512"/>
+
+0006 - Words from Alice - In this program, we are given a Alice.txt full of text. In it, we use RegEx (Regular Expression) to find strings that matches our wishes. For instance, I'll upload an aditional file called "Alice.txt" in which there is the full text of Lewis Carroll's "Alice’s Adventures in Wonderland" From it, we will print every word that has the following format: 4 to 7 letters + '-' + 5 to 7 letters, like "frog-footman". This code was made using "Automate the Boring Stuff with Python" by Al Sweigart.
