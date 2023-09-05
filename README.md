@@ -14,3 +14,5 @@ Solving some problems with Python
 <img src="https://raw.githubusercontent.com/ThiagoFigueiroRibeiro/python/main/imgs/0005_SoccerField.png" width="512"/>
 
 0006 - Words from Alice - In this program, we are given a Alice.txt full of text. In it, we use RegEx (Regular Expression) to find strings that matches our wishes. For instance, I'll upload an aditional file called "Alice.txt" in which there is the full text of Lewis Carroll's "Alice’s Adventures in Wonderland" From it, we will print every word that has the following format: 4 to 7 letters + '-' + 5 to 7 letters, like "frog-footman". This code was made using "Automate the Boring Stuff with Python" by Al Sweigart.
+
+0007 - Webmap: In this one, you put an address you want and it opens your browser and it googles it for you. For instance, if you run it like "python 0007_Webmap.py new york" it will open your browser and shows you the map of new york. Prety cool. 
